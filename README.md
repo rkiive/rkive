@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SH.
 - 👀 I’m interested in photography, computational photography, editing.
 - 🌱 I’m currently learning deep learning for computational photography.
-- 💞️ I’m @geebnglr
+- 💞️ I’m @rkive
 - 📫 CREATE.SHARE.INSPIRE
 
 <!---
